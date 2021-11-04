@@ -4,7 +4,7 @@ using Newtonsoft;
 using Newtonsoft.Json;
 using System;
 
-namespace demo
+namespace TestAPI
 {
     class Program
     {
@@ -17,16 +17,16 @@ namespace demo
             var client = new RestClient("http://dummy.restapiexample.com/api/v1/");
             var request = new RestRequest("employees");
             var response = client.Execute(request);
-            
-            if(response.StatusCode == System.Net.HttpStatusCode.OK)
+
+            if (response.StatusCode == System.Net.HttpStatusCode.OK)
             {
                 string rawResponse = response.Content;
                 Root result = JsonConvert.DeserializeObject<Root>(rawResponse);
                 Console.WriteLine("{0}", rawResponse);
-            }   
-         
+            }
+
         }
-        
+
     }
     public class Datum
     {

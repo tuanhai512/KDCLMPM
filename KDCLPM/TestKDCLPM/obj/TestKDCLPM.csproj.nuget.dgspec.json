@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "H:\\năm 4\\KDCLPM\\demo\\TestKDCLPM\\TestKDCLPM.csproj": {}
+    "H:\\năm 4\\KDCLPM\\KDCLMPM\\KDCLPM\\TestKDCLPM\\TestKDCLPM.csproj": {}
   },
   "projects": {
-    "H:\\năm 4\\KDCLPM\\demo\\demo\\demo.csproj": {
+    "H:\\năm 4\\KDCLPM\\KDCLMPM\\KDCLPM\\demo\\TestAPI.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "H:\\năm 4\\KDCLPM\\demo\\demo\\demo.csproj",
-        "projectName": "demo",
-        "projectPath": "H:\\năm 4\\KDCLPM\\demo\\demo\\demo.csproj",
+        "projectUniqueName": "H:\\năm 4\\KDCLPM\\KDCLMPM\\KDCLPM\\demo\\TestAPI.csproj",
+        "projectName": "TestAPI",
+        "projectPath": "H:\\năm 4\\KDCLPM\\KDCLMPM\\KDCLPM\\demo\\TestAPI.csproj",
         "packagesPath": "C:\\Users\\Tuan Hai\\.nuget\\packages\\",
-        "outputPath": "H:\\năm 4\\KDCLPM\\demo\\demo\\obj\\",
+        "outputPath": "H:\\năm 4\\KDCLPM\\KDCLMPM\\KDCLPM\\demo\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -72,14 +72,14 @@
         }
       }
     },
-    "H:\\năm 4\\KDCLPM\\demo\\TestKDCLPM\\TestKDCLPM.csproj": {
+    "H:\\năm 4\\KDCLPM\\KDCLMPM\\KDCLPM\\TestKDCLPM\\TestKDCLPM.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "H:\\năm 4\\KDCLPM\\demo\\TestKDCLPM\\TestKDCLPM.csproj",
+        "projectUniqueName": "H:\\năm 4\\KDCLPM\\KDCLMPM\\KDCLPM\\TestKDCLPM\\TestKDCLPM.csproj",
         "projectName": "TestKDCLPM",
-        "projectPath": "H:\\năm 4\\KDCLPM\\demo\\TestKDCLPM\\TestKDCLPM.csproj",
+        "projectPath": "H:\\năm 4\\KDCLPM\\KDCLMPM\\KDCLPM\\TestKDCLPM\\TestKDCLPM.csproj",
         "packagesPath": "C:\\Users\\Tuan Hai\\.nuget\\packages\\",
-        "outputPath": "H:\\năm 4\\KDCLPM\\demo\\TestKDCLPM\\obj\\",
+        "outputPath": "H:\\năm 4\\KDCLPM\\KDCLMPM\\KDCLPM\\TestKDCLPM\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -100,8 +100,8 @@
           "net5.0": {
             "targetAlias": "net5.0",
             "projectReferences": {
-              "H:\\năm 4\\KDCLPM\\demo\\demo\\demo.csproj": {
-                "projectPath": "H:\\năm 4\\KDCLPM\\demo\\demo\\demo.csproj"
+              "H:\\năm 4\\KDCLPM\\KDCLMPM\\KDCLPM\\demo\\TestAPI.csproj": {
+                "projectPath": "H:\\năm 4\\KDCLPM\\KDCLMPM\\KDCLPM\\demo\\TestAPI.csproj"
               }
             }
           }

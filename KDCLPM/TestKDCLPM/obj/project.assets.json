@@ -1554,7 +1554,7 @@
           "lib/netstandard1.3/System.Xml.XDocument.dll": {}
         }
       },
-      "demo/1.0.0": {
+      "TestAPI/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v5.0",
         "dependencies": {
@@ -1562,10 +1562,10 @@
           "RestSharp": "106.13.0"
         },
         "compile": {
-          "bin/placeholder/demo.dll": {}
+          "bin/placeholder/TestAPI.dll": {}
         },
         "runtime": {
-          "bin/placeholder/demo.dll": {}
+          "bin/placeholder/TestAPI.dll": {}
         }
       }
     }
@@ -5453,10 +5453,10 @@
         "system.xml.xdocument.nuspec"
       ]
     },
-    "demo/1.0.0": {
+    "TestAPI/1.0.0": {
       "type": "project",
-      "path": "../demo/demo.csproj",
-      "msbuildProject": "../demo/demo.csproj"
+      "path": "../demo/TestAPI.csproj",
+      "msbuildProject": "../demo/TestAPI.csproj"
     }
   },
   "projectFileDependencyGroups": {
@@ -5464,8 +5464,8 @@
       "MSTest.TestAdapter >= 2.1.1",
       "MSTest.TestFramework >= 2.1.1",
       "Microsoft.NET.Test.Sdk >= 16.7.1",
-      "coverlet.collector >= 1.3.0",
-      "demo >= 1.0.0"
+      "TestAPI >= 1.0.0",
+      "coverlet.collector >= 1.3.0"
     ]
   },
   "packageFolders": {
@@ -5475,11 +5475,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "H:\\năm 4\\KDCLPM\\demo\\TestKDCLPM\\TestKDCLPM.csproj",
+      "projectUniqueName": "H:\\năm 4\\KDCLPM\\KDCLMPM\\KDCLPM\\TestKDCLPM\\TestKDCLPM.csproj",
       "projectName": "TestKDCLPM",
-      "projectPath": "H:\\năm 4\\KDCLPM\\demo\\TestKDCLPM\\TestKDCLPM.csproj",
+      "projectPath": "H:\\năm 4\\KDCLPM\\KDCLMPM\\KDCLPM\\TestKDCLPM\\TestKDCLPM.csproj",
       "packagesPath": "C:\\Users\\Tuan Hai\\.nuget\\packages\\",
-      "outputPath": "H:\\năm 4\\KDCLPM\\demo\\TestKDCLPM\\obj\\",
+      "outputPath": "H:\\năm 4\\KDCLPM\\KDCLMPM\\KDCLPM\\TestKDCLPM\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -5500,8 +5500,8 @@
         "net5.0": {
           "targetAlias": "net5.0",
           "projectReferences": {
-            "H:\\năm 4\\KDCLPM\\demo\\demo\\demo.csproj": {
-              "projectPath": "H:\\năm 4\\KDCLPM\\demo\\demo\\demo.csproj"
+            "H:\\năm 4\\KDCLPM\\KDCLMPM\\KDCLPM\\demo\\TestAPI.csproj": {
+              "projectPath": "H:\\năm 4\\KDCLPM\\KDCLMPM\\KDCLPM\\demo\\TestAPI.csproj"
             }
           }
         }
