@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "OtEAGUsFUl2yVlev9RnGF08wKU3/JDfZw8LX8B6TOa1ZT4DD92bKzcISh+em185noGHKRfSzaJ60zwex2r1psQ==",
+  "success": true,
+  "projectFilePath": "H:\\năm 4\\KDCLPM\\demo\\demo\\demo.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Tuan Hai\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512",
+    "C:\\Users\\Tuan Hai\\.nuget\\packages\\restsharp\\106.13.0\\restsharp.106.13.0.nupkg.sha512"
+  ],
+  "logs": []
+}
